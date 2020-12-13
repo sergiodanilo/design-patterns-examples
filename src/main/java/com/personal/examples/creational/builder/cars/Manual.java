@@ -1,9 +1,6 @@
 package com.personal.examples.creational.builder.cars;
 
-import com.personal.examples.creational.builder.components.Engine;
-import com.personal.examples.creational.builder.components.GPSNavigator;
-import com.personal.examples.creational.builder.components.Transmission;
-import com.personal.examples.creational.builder.components.TripComputer;
+import com.personal.examples.creational.builder.components.*;
 
 public class Manual {
 

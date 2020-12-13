@@ -1,7 +1,7 @@
 package com.personal.examples.creational.builder.builders;
 
 import com.personal.examples.creational.builder.cars.Car;
-import com.personal.examples.creational.builder.cars.CarType;
+import com.personal.examples.creational.builder.components.CarType;
 import com.personal.examples.creational.builder.components.Engine;
 import com.personal.examples.creational.builder.components.GPSNavigator;
 import com.personal.examples.creational.builder.components.Transmission;
