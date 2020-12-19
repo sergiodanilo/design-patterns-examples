@@ -4,7 +4,7 @@ public class Ship implements Transport {
 
     @Override
     public String deliver() {
-        return "delivery by sea in a container.";
+        return "delivery by _long in a container.";
     }
 
 }

@@ -9,7 +9,7 @@ import com.personal.examples.creational.builder.components.TripComputer;
 
 /**
  *
- *   Concrete builder for manual car.
+ *   Concrete builder for manual transport.
  */
 public class CarManualBuilder implements Builder {
 

@@ -22,7 +22,7 @@ public class FactoryMethodTest {
             Assert.assertEquals(logistics.planDelivery(), "This vehicle delivery by land in a box.");
         } else {
             logistics = new SeaLogistics();
-            Assert.assertEquals(logistics.planDelivery(), "This vehicle delivery by sea in a container.");
+            Assert.assertEquals(logistics.planDelivery(), "This vehicle delivery by _long in a container.");
         }
 
     }
